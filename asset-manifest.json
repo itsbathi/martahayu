@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/martahayu/static/js/main.100c8ef0.chunk.js",
+    "main.js.map": "/martahayu/static/js/main.100c8ef0.chunk.js.map",
+    "runtime~main.js": "/martahayu/static/js/runtime~main.eb45fed7.js",
+    "runtime~main.js.map": "/martahayu/static/js/runtime~main.eb45fed7.js.map",
+    "static/js/2.a0413a49.chunk.js": "/martahayu/static/js/2.a0413a49.chunk.js",
+    "static/js/2.a0413a49.chunk.js.map": "/martahayu/static/js/2.a0413a49.chunk.js.map",
+    "index.html": "/martahayu/index.html",
+    "precache-manifest.8175eb5b8f03f1568d4ff8908c2060b3.js": "/martahayu/precache-manifest.8175eb5b8f03f1568d4ff8908c2060b3.js",
+    "service-worker.js": "/martahayu/service-worker.js"
+  }
+}
