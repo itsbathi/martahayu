@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c1ff02f4deff35ec1a243f552f6c4e8c",
+    "revision": "3debc1d3769be9bcca41326045e14029",
     "url": "/martahayu/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/martahayu/static/js/2.a0413a49.chunk.js"
   },
   {
-    "revision": "739384c40343b1877a72",
-    "url": "/martahayu/static/js/main.f0b8fa6b.chunk.js"
+    "revision": "e8ef6c408197ddfa3ce7",
+    "url": "/martahayu/static/js/main.edac8cf1.chunk.js"
   },
   {
     "revision": "3d07760b000a9858fdaf",
